@@ -1,0 +1,17 @@
+[
+    {
+        "SN" : 211,
+        "name": "Jon Doe",
+        "dealership": "electronics" 
+    },
+    {
+        "SN" : 810,
+        "name": "Jack Ma",
+        "dealership": "machines" 
+    },
+    {
+        "SN" : 731,
+        "name": "Jon Doe",
+        "dealership": "electronics" 
+    }
+]
